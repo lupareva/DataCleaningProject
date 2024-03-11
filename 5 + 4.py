@@ -1,2 +1,2 @@
-a = 'Valya'
-print(a)
+def new_function(a,b):
+    pass
